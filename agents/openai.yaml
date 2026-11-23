@@ -1,0 +1,4 @@
+interface:
+  display_name: "a sentence"
+  short_description: "按英文全称、一句话定义、相关公式及技术应用四步解释科研名词"
+  default_prompt: "使用 $a-sentence，按英文全称、一句话解释、相关公式和技术应用场景四步解释我输入的科研名词。"
